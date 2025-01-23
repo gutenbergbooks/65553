@@ -1,4 +1,4 @@
-﻿The Project Gutenberg eBook of Inspector French’s Greatest Case, by Freeman
+﻿The Project Gutenberg eBook of Inspector French's Greatest Case, by Freeman
 Wills Crofts
 
 This eBook is for the use of anyone anywhere in the United States and
@@ -9,7 +9,7 @@ www.gutenberg.org. If you are not located in the United States, you
 will have to check the laws of the country where you are located before
 using this eBook.
 
-Title: Inspector French’s Greatest Case
+Title: Inspector French's Greatest Case
 
 Author: Freeman Wills Crofts
 
@@ -22,7 +22,7 @@ Character set encoding: UTF-8
 Produced by: Al Haines, Cindy Beyer & the online Distributed Proofreaders
              Canada team at http://www.pgdpcanada.net
 
-*** START OF THE PROJECT GUTENBERG EBOOK INSPECTOR FRENCH’S GREATEST
+*** START OF THE PROJECT GUTENBERG EBOOK INSPECTOR FRENCH'S GREATEST
 CASE ***
 
 
@@ -1691,7 +1691,7 @@ on the top, and bore the following typewritten letter:
     “H. A. SCHOOFS, ESQ.
 
     “I should be obliged if you would please ask Mr. Vanderkemp to
-    come over and see me here at 10.00 a.m. on Wednesday, 26th inst.,
+    come over and see me here at 10.00 a.m. on Wednesday, 26h inst.,
     as I wish him to undertake negotiations for a fresh purchase. He
     may have to go to Stockholm at short notice.”
 
@@ -2410,7 +2410,7 @@ He decided that he had done enough for one day, and presently, soothed
 by a cigar, he went out into the great street in front of the hotel,
 with its rows of trees and brilliant arc lamps. He did not know then
 that this gently-sloping boulevard was one of the famous streets of the
-world—the Rambla, known as is Piccadilly in London, the Champs Élysées
+world—the Rambla, known as is Piccadilly in London, the Champs Elysées
 in Paris, or Fifth Avenue in New York. For an hour he roamed, then,
 tired out, he returned to the Orient, and a few minutes later was sunk
 in dreamless slumber.
@@ -4536,7 +4536,7 @@ them about?
 He was certainly no further on as to finding her, whether she had
 crossed to France, or travelled to some other point on the Southern
 system, or had simply walked out of the station and been swallowed up in
-the wilderness of London, she was just as completely lost to him as
+the Wilderness of London, she was just as completely lost to him as
 ever. Hard luck that so unexpected a lift as the finding of the trunks
 should have led to so little.
 
@@ -9110,7 +9110,7 @@ occur.
 
 
 
-*** END OF THE PROJECT GUTENBERG EBOOK INSPECTOR FRENCH’S GREATEST CASE ***
+*** END OF THE PROJECT GUTENBERG EBOOK INSPECTOR FRENCH'S GREATEST CASE ***
 
 Updated editions will replace the previous one--the old editions will
 be renamed.
